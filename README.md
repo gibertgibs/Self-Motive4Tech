@@ -16,7 +16,7 @@ Some days you wake up motivated and ready to go. And some days things feel heavy
 
 ### STEPS TO GET YOURSELF MOTIVATED.
 
-I1. Just get started and let the motivation catch up with you.
+1. Just get started and let the motivation catch up with you.
 
 You don’t have to wait for motivation to get started. If you want to work in a consistent way every day then sometimes you just have to get going anyway.
 
