@@ -8,4 +8,4 @@ There’s no denying that what we are living through is new, difficult uncharted
 2. Anything that’s not related to tech / gadgets / innovation.
 3. Anything that targets niches like gambling, pharma or erotica.
 4. Anything that’s offensive or racially inclined.
-5. Anything that shines a bad light on other companies. We don’t publish hit pieces.
+5. Anything that shines a bad light on other communities. We don’t publish hit pieces.
