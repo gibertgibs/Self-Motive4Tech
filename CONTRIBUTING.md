@@ -4,7 +4,7 @@ There’s no denying that what we are living through is new, difficult uncharted
 
 ## WE DON'T PUBLISH
 
-1. Anything that’s been covered on our blog before.
+1. Anything that’s been covered on personal interest.
 2. Anything that’s not related to tech / gadgets / innovation.
 3. Anything that targets niches like gambling, pharma or erotica.
 4. Anything that’s offensive or racially inclined.
