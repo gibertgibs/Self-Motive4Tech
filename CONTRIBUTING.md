@@ -55,6 +55,79 @@ One of the essential elements of a Repair Cafe is that people don’t just come 
 This research may be resourceful to all of us who hope to be part of repair cafes. This is where your motivation can come from, click the link and read through the research.
 https://research.uca.ac.uk/2731/
 
+#### BUILDING A SOLAR CHARGER
+**Note:** These carries along for students, communities or even a particular group.
+
+**Note:** These guidelines are the copy cuts from Debutsh Schonder.
+
+Each group needs:
+
+2 mini solar panels
+4 AA NiMH rechargeable batteries
+2 2xAA battery holders
+1 Schottky diode (1N5817)
+1 USB connector (female)
+case, such as a pencil case or small box
+wire
+paper and pencils
+(optional, to charge Apple devices) a fairly simple voltage divider circuit to add to the circuit; see https://learn.sparkfun.com/tutorials/voltage-dividers
+
+For the class or group to share:
+
+1. wire strippers
+2. needle nose pliers
+3. multimeter
+4. USB test wire
+5. soldering iron and solder
+6. electrical tape
+7. Procedure
+
+Overview
+
+Students undertake an engineering challenge to design and build solar USB chargers using solar panels, rechargeable batteries, and other components.
+
+Procedure
+
+In the form of a group/Community discussion, lead students through the following introductory questions:
+
+Q1: What is the voltage of a NiMH AA battery? What is the voltage of four AA batteries connected in parallel? What is the voltage of four AA batteries connected in series? (Answer: Voltage of one NiMH AA battery is about 1.2 V. Four batteries in parallel: 0.3V. Four batteries in series: 4.8 V.)
+
+Q2: What is the output voltage of the solar panel? What is the output voltage of two panels connected in parallel? What is the output voltage of two panels connected in series? (Answer: The answer depends on the solar panels chosen for the activity [for example, SparkFun sells solar panels that have a peak power output of 6 V]. For solar panels that have individual outputs of about 0.55 V [indoor lighting], two panels connected in parallel: 0.54 V. Two panels connected in series: 1.09 V. Their output mirrors the behavior of batteries in series/parallel.)
+
+Q3: What do the solar panels do? Where do you think they should be placed in the circuit? (Answer: Solar panels convert light energy to electrical energy; they act like batteries and produce a voltage output. In this circuit, the solar panels provide power to recharge the batteries. Place the positive output of solar panel to the positive output of the battery pack.)
+
+Q4: Why do you think that batteries are used? Where do you think they should be placed in the circuit? (Answer: The batteries store power from the solar panels so that you can charge your device when the sun is not out. Place them positive to positive, and negative to negative with the solar panels.)
+
+Q5: What does the diode do? Where do you think it should be placed in the circuit? (Answer: The diode ensures that the current only runs one way. Place it between the positive terminal of the solar panel and the positive terminal of the battery, in such a way that the current flows only from the solar panels to the battery. This prevents the battery from discharging through the solar panel at night.)
+
+Q6: At what voltage does a USB supply operate? (Answer: 5V)
+
+Q7: Given our discussion, sketch a diagram that shows how you think the components should be arranged.
+
+A circuit diagram shows the arrangement of a solar panel, diode, battery and USB supply.
+Distribute materials and direct students to build and test according to steps 3-11.
+Connect the battery holders and measure the voltage. Once students have determined the correct way to connect the batteries, have them connect the leads (wires) of the battery holders appropriately. (To connect them in series, connect the red wire of one holder to the black wire of another. To connect the leads in parallel, connect the two red wires together and the two black wires together.) Connect the wires together by twisting the ends of the leads (which have been previously stripped of insulation) and twisting, as shown in Figure 1. The wrapping pattern is designed to cause the termination to tighten as the conductors pull against each other.
+A line drawing diagram shows how to make a short Western Union wire splice (the steps are drawings A through D), and two images of longer variations on the splice (drawings E and F). The basic steps are to twist two ends of a wire together counterclockwise 3/4 of a turn each, finger tight. Then, use needle-nose pliers to twist each end at least five more turns tightly around the other wire. Then finish off by pushing the cut-off ends close to the center wire they are wrapped around.
+Connect the wires together by twisting them.
+Install the AA batteries into the holders. To measure the battery voltage, have students use a multimeter and connect the black lead to the COM terminal and the red lead to the terminal with V listed next to it. Then set the multimeter to read DC voltage. Provide assistance to anyone who is unfamiliar with setting-up a multimeter.
+
+The configuration of the 9 V battery holders connected to the multimeter with a red probe and a black probe. The multimeter reads 8.754.
+Multimeter setup.
+
+Have members touch the black probe to the stripped end of the black wire from the battery holders, and the red probe to the stripped end of the red wire from the battery holders. Tell students to record the voltage and compare it to the answer from introductory question 1. If a major discrepancy exists, encourage students to find the source of error, correct it, and repeat the measurement.
+
+Connect the solar panels and measure the open circuit voltage. Once students have determined the correct way to connect the solar panels, have them repeat the above procedure for connecting and testing the voltage of the solar panels. Have students compare the measured voltage to the answer from Introductory Question 2. If a major discrepancy exists, tell students to find the source of error, correct it, and repeat the measurement.
+Connect the diode. Diodes have polarity, so make sure students identify the positive and negative leads of the diode according to Figure 3. Have students connect the positive side of the diode to the positive wire from the solar panels by twisting the leads together. (Note: If students are putting the solar panel on top of a case, direct them to thread the solar panel wires through the case before making any connections.) Later, once the charger is tested, these connections will be soldered, but they must have a good mechanical connection to work for the test.
+Identifying the anode and cathode of a diode.
+Connect the battery holder. Have students connect the positive wire of the battery holders to the negative lead of the diode, and the negative wire of the battery connector to the negative wire from the solar panel using the same twisting wires method from the previous step.
+Connect the USB port. Have students connect the positive (red) wire of the USB port to the junction containing the positive wire of the battery holder, and the negative wire of the boost connector to the junction containing the negative wire of the battery holder by twisting the wires together as shown in Figure 4. Make sure that students twist the wires firmly together so that they do not come apart while testing.
+A line drawing diagram shows the connection of the red wire of the USB port to the junction containing the positive wire of the battery holder and the negative wire of the boost connector to the junction containing the negative wire of the battery holder. Identified are the “branch wire” and the “main wire.”
+Connecting the main wire and the branch wire.
+Test your system. Now, have students plug in the USB test wire into the USB port. Using the same multimeter setup as steps 3 and 4, tell students to measure the voltage across the USB test wire leads and record this voltage. (Expect the voltage to be ~5V; if not, look for a faulty component or faulty assembly.)
+(optional) Install a voltage divider circuit to enable charging of Apple devices. If students want their USB chargers to work for Apple devices, a fairly simple voltage divider circuit needs to be added. See a tutorial on voltage dividers at https://learn.sparkfun.com/tutorials/voltage-dividers. Have students read through this tutorial and design a voltage divider for their solar charger circuits.
+Solder and insulate connections. Once the charger has been tested, tell students that the connections need to be made permanent by soldering. Solder the connections together for them. (See the Other section for recommended soldering tutorials.) Then, have students wrap electrical tape around the connections to insulate them.
+Assemble completed circuit into case. Have students assemble their components into their cases, as desired. Look over their work and make sure that all connections are correctly insulated.
+
 ### WE DON'T PUBLISH
 
 1. Anything that’s been covered on personal interest.
