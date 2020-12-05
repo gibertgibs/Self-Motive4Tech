@@ -10,3 +10,12 @@ Our areas of motivation rallies through the following;
 #### 3. Build Solar Charger ####
 #### 4. Software Programing ####
 #### 5. Data and Documentation ####
+
+Despite the fact that we hope to reach many more resilient youth, there are some areas that we don't hope to participate in or even publish in any of our releases.
+## WE DON'T PUBLISH
+
+1. Anything that’s been covered on personal interest.
+2. Anything that’s not related to tech / gadgets / innovation.
+3. Anything that targets niches like gambling, pharma or erotica.
+4. Anything that’s offensive or racially inclined.
+5. Anything that shines a bad light on other communities. We don’t publish hit pieces.
