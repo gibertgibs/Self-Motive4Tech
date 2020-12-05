@@ -50,6 +50,11 @@ From active participants eager to learn how to fix their own things all the way 
 
 One of the essential elements of a Repair Cafe is that people don’t just come to drop off broken items to be picked up later like a traditional repair shop, but that everyone is matched up with a repair person to interact, learn, and build a relationship with the processes and materials that go into making our modern day conveniences possible. While some people maintain Repair Cafés are all about teaching people to fix their own stuff, Peter Skinner says his crew has decided to welcome everybody, even if they’re just coming to get their lamps fixed. “When people sit side by side with a repair person they’re participating just by being there,” Skinner says. “We really want to leverage that part, just to educate people to think about repair first.”
 
+#### RESERACH ON MEMBER MOTIVATION OF REPAIR CAFE.
+
+This research may be resourceful to all of us who hope to be part of repair cafes. This is where your motivation can come from, click the link and read through the research.
+https://research.uca.ac.uk/2731/
+
 ### WE DON'T PUBLISH
 
 1. Anything that’s been covered on personal interest.
