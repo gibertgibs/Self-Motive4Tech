@@ -14,4 +14,3 @@ Unknown
 
 Some days you wake up motivated and ready to go. And some days things feel heavy as you arise and it is hard to get going and find that inner drive. So you just have to do it for yourself.
 
-#through social media or checking just one more Whatsapp message while you should be working, Forest is a great way to keep focused whilst earning points towards giving something back.
