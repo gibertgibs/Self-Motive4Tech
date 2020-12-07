@@ -2,7 +2,7 @@
 
 There’s no denying that what we are living through is new, difficult uncharted territory. With the COVID-19 crisis, we have all been forced to rethink and renew our ways of living, interacting and working. While the world may be in shock, society is proving its resilience and solidarity in overcoming the challenges that have arisen from this situation. Tech leaders, corporates and startups have reacted quickly by mobilizing their teams, resources and their innovative skills to fight this health crisis and its economic impact. We’re proud to see the tech world rallying to help.
 
-## MOTIVATION
+## [MOTIVATION](http://www.motivation.com)
 
 If you’ve ever found yourself on the phone or at the market side with a customer service representative telling you it would cost more to fix your electric appliance e.g. a phone than to just buy a new one, you are well acquainted with the concept of “planned obsolescence“. The good news is that people across the world are getting wise to the intentional design flaws hoisted upon us by clever manufacturers eager to sell more products, and are coming up with new and creative ways to salvage perfectly usable things.
 
