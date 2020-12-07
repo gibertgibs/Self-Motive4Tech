@@ -5,15 +5,23 @@ Self-motivation is the force that keeps pushing us to go on – it's our interna
 For despite the Pandemic Crisis that erupted in 2019 in China, Technology has always found a path in contributing to the development of our youth and communities.
 
 ## TABLE OF CONTENTS ##
-#### 1. Repair Cafe ####
-#### 2. Podcasting ####
-#### 3. Build Solar Charger ####
-#### 4. Software Programing ####
-#### 5. Data and Documentation ####
+**1. *Repair Cafe* Motivation**
+
+**2. *Podcasting* Motivation**
+
+**3. *Build Solar Charger* Motivation**
+
+**4. *Software Programing* Motivation**
+
+**5. *Data and Documentation* Motivation**
 
 ### INSTALLATION
+
 ### USAGE
+
 ### CONTRIBUTING
+
 ### CREDITS
+
 ### LICENSE
 
